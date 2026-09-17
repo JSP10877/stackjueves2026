@@ -44,3 +44,6 @@ Usamos **Tailwind CSS**. No editen el archivo CSS **(NO TOCAR INDEX.CSS)** globa
 ## 📌 Notas del Equipo
 - Para los iconos, instalaremos `lucide-react` o `react-icons`.
 - Las rutas se manejan en `App.jsx`.
+
+## 📌 Testeo Thunder
+-Linea base para testeo base de datos `http://localhost:4000/api/`.
